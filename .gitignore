@@ -1,1 +1,7 @@
 .Trash/
+myenv/
+data/
+vectorstore/
+.ipynb_checkpoints/
+.env
+.DS_Store
