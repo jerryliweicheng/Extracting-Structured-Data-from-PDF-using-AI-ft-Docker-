@@ -1,1 +1,1 @@
-# Extracting-Structured-Data-from-PDF-using-AI-ft-Docker-
+In this project, I explored how to extract structured information from PDF documents, using Langchain and OpenAI models.
